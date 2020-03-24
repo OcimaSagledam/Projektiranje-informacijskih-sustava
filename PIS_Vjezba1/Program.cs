@@ -13,6 +13,7 @@ namespace PIS_Vjezba1
             Console.Write("Test");
             int m = 4;
             Console.WriteLine("Another test");
+            Console.WriteLine("Fagso");
         }
     }
 }
