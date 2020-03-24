@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS_Vjezba1", "PIS_Vjezba1\PIS_Vjezba1.csproj", "{5665938D-E887-434C-BD2B-A24F94D59ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5665938D-E887-434C-BD2B-A24F94D59ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5665938D-E887-434C-BD2B-A24F94D59ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5665938D-E887-434C-BD2B-A24F94D59ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5665938D-E887-434C-BD2B-A24F94D59ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2693818-2427-4250-A77D-C3826C52D278}
+	EndGlobalSection
+EndGlobal
