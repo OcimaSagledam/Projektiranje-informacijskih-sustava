@@ -10,7 +10,9 @@ namespace PIS_Vjezba1
     {
         static void Main(string[] args)
         {
-            
+            Console.Write("Test");
+            int m = 4;
+            Console.WriteLine("Another test");
         }
     }
 }
