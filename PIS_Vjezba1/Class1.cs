@@ -8,6 +8,9 @@ namespace PIS_Vjezba1
 {
     class Class1
     {
-
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Test for Class1");
+        }
     }
 }
