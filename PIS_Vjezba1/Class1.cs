@@ -8,5 +8,6 @@ namespace PIS_Vjezba1
 {
     class Class1
     {
+       Console.Write("Test for Class1");
     }
 }
