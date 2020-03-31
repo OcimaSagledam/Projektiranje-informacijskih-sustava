@@ -14,6 +14,8 @@ namespace PIS_Vjezba1
             int m = 4;
             Console.WriteLine("Another test");
             Console.WriteLine("Fagso");
+            
+            Console.WriteLine("Bug fix");
         }
     }
 }
